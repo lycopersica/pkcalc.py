@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5cddaa2-e7cb-4aac-b88d-8e6e6711beb4" name="Changes" comment="" />
+    <list default="true" id="b5cddaa2-e7cb-4aac-b88d-8e6e6711beb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pkcalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/pkcalc.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

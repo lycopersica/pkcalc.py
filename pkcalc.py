@@ -347,7 +347,7 @@ def main():
         effectiveness = get_type_effectiveness(attacking_type, defending_type1)
 
     if effectiveness == 0:
-        print("This attack is not very effective.")
+        print("This attack is not effective.")
     elif effectiveness == 0.25:
         print("This attack is not very effective.")
     elif effectiveness == 0.5:
